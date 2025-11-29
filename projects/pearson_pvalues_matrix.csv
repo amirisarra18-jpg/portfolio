@@ -1,0 +1,11 @@
+,age,daily_screen_time_min,social_media_time_min,negative_interactions_count,positive_interactions_count,sleep_hours,physical_activity_min,anxiety_level,stress_level,mood_level
+age,0.0,0.0,0.0,2.358605144536829e-215,2.1744381358056516e-248,0.0,0.0,0.0,0.0,0.0
+daily_screen_time_min,0.0,0.0,0.0,4.882014669986348e-257,0.0,0.0,0.0,0.0,0.0,0.0
+social_media_time_min,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+negative_interactions_count,2.358605144536829e-215,4.882014669986348e-257,0.0,0.0,0.0,3.042056719024886e-255,6.124016205705104e-257,0.0,0.0,0.0
+positive_interactions_count,2.1744381358056516e-248,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+sleep_hours,0.0,0.0,0.0,3.042056719024886e-255,0.0,0.0,0.0,0.0,0.0,0.0
+physical_activity_min,0.0,0.0,0.0,6.124016205705104e-257,0.0,0.0,0.0,0.0,0.0,0.0
+anxiety_level,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+stress_level,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+mood_level,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
